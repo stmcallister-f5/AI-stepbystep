@@ -4,7 +4,7 @@
 </p>
 
 # Welcome to AI Step-by-Step
-Getting started with AI is surpisingly simple and can begin completely free. These lab guides provide hands-on learning paths for those who want to build their own AI environments from the ground up, whith options that scale affordably: start with completely free tools and resources, progress to intermediate setups, or advance to professiona-grade environments that you can directly apply to real world use cases as your skills and needs grow.
+Getting started with AI is surpisingly simple and can begin completely free. These lab guides provide hands-on learning paths for those who want to build their own AI environments from the ground up, with options that scale affordably: start with completely free tools and resources, progress to intermediate setups, or advance to professiona-grade environments that you can directly apply to real world use cases as your skills and needs grow.
 
 These labs are community-driven and constantly evolving. Spot an improvement or catch an error? We'd love your contribution via Pull Request, or just reach out to the repository contributors.
 
